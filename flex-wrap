@@ -10,6 +10,7 @@
         padding: 0;
         margin: 0;
         display: flex;
+        flex-wrap nowrap; /*Valeur par défaut, vous pouvez ommettre cette règle de style, cela continueraà fonctionner*/
         list-style: none;
         border: 1px solid #ff0000;
         width: 500px;
